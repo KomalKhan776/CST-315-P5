@@ -1,0 +1,11 @@
+run job0 4360 1
+run job1 2577 2
+run job2 4132 1
+run job3 4193 3
+run job4 4646 2
+run job5 1790 1
+run job6 2340 2
+procs -a
+quant 500
+start
+exit
